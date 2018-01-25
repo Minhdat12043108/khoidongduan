@@ -14,7 +14,8 @@ namespace Demo
         public Form1()
         {
             InitializeComponent();
-	sua bai tap ve nha
+	//sua bai tap ve nha
+            // them ghi chu cho bai hoc
 
         }
     }
